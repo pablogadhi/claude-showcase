@@ -1,2 +1,2 @@
-# cloud-showcase
-Just testing building a project from scratch with cloude
+# claude-showcase
+Just testing building a project from scratch with claude
